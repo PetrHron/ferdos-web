@@ -1,0 +1,3 @@
+[submodule "ferdos-web"]
+	path = ferdos-web
+	url = https://https://github.com/PetrHron/ferdos-web.git
